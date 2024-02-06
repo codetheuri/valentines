@@ -5,7 +5,7 @@
 
 
 
-#### [See it Live](https://codetheuri.github.io/ValentineWish/)
+#### [See it Live](https://codetheuri.github.io/valentines/)
 
 ## Make your own version :computer:
 
